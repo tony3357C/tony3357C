@@ -1,4 +1,4 @@
-[![MasterHead](https://giffiles.alphacoders.com/120/120237.gif)]
+![MasterHead](https://giffiles.alphacoders.com/120/120237.gif)
 <center><h1 > Anon Here 🖐🏻</h1></center>
 
 # 💻 Tech Stack:
